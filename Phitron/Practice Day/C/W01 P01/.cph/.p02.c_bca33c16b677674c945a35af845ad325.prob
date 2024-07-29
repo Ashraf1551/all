@@ -1,0 +1,1 @@
+{"name":"Local: p02","url":"d:\\Coding\\Phitron\\Practice Day\\W01 P01\\p02.c","tests":[{"id":1714147462455,"input":"5 2","output":"5 + 2 = 7\n5 - 2 = 3\n5 * 2 = 10\n5 / 2 = 2.50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\Phitron\\Practice Day\\W01 P01\\p02.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1demo","url":"d:\\Coding\\Phitron\\Assignment\\Basic DS\\Assignment 02\\1demo.cpp","tests":[{"id":1719692927637,"input":"1 2 4 2 3 5 1 4 5 2 6 1 -1\n","output":"1 2 4 3 5 6\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Coding\\Phitron\\Assignment\\Basic DS\\Assignment 02\\1demo.cpp","group":"local","local":true}
